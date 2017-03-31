@@ -1,2 +1,4 @@
 # hello-world
-firrst steps on gitbhub
+first steps on gitbhub
+
+looks like a pretty cool platform!
